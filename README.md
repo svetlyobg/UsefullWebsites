@@ -71,5 +71,6 @@
 
 ## move OST file in Outlook 2016
 
-mklink Link Target
+mklink “C:\Users\%username%\AppData\Local\Microsoft\Outlook\ datafile.ost ” “D:\Documents\Outlook Files\ datafile.ost “
+
 [move-ost-file-outlook-2016](https://www.sfware.com/blog/move-ost-file-outlook-2016)
