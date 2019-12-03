@@ -74,3 +74,6 @@
 mklink “C:\Users\%username%\AppData\Local\Microsoft\Outlook\ datafile.ost ” “D:\Documents\Outlook Files\ datafile.ost “
 
 [move-ost-file-outlook-2016](https://www.sfware.com/blog/move-ost-file-outlook-2016)
+
+## Open Port Check Tool
+[https://www.canyouseeme.org/](https://www.canyouseeme.org/)
