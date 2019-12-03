@@ -9,6 +9,8 @@
 
 [toolbox.googleapps.com](https://toolbox.googleapps.com/apps/checkmx/)
 
+[https://www.whatsmydns.net/](https://www.whatsmydns.net/)
+
 ## Email Header Analyzer
 
 [whatismyip.com](https://www.whatismyip.com/email-header-analyzer/)
