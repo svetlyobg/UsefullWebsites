@@ -1,5 +1,5 @@
 # UsefullWebsites
 
-## mxtoolbox
-[mxtoolbox.com](https://mxtoolbox.com/)
+## [mxtoolbox](https://mxtoolbox.com/)
+Check DNS records
 
