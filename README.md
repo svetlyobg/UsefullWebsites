@@ -1,11 +1,11 @@
 # UsefullWebsites
 
-## 
+## Check DNS records
 [mxtoolbox](https://mxtoolbox.com/)
-Check DNS records
 
 [https://intodns.com/](https://intodns.com/)
 
+[https://dnschecker.org/)(https://dnschecker.org/)
 
 [toolbox.googleapps.com](https://toolbox.googleapps.com/apps/checkmx/)
 
