@@ -30,3 +30,7 @@ Check DNS records
 [https://whatismyipaddress.com/](https://whatismyipaddress.com/)
 
 [https://ifconfig.me/](https://ifconfig.me/)
+
+## Online VAT calculator
+
+[https://vatcalconline.com/](https://vatcalconline.com/)
