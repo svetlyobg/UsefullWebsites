@@ -19,3 +19,6 @@ Check DNS records
 [sslshopper.com](https://www.sslshopper.com/ssl-checker.html)
 
 [ssllabs.com](https://www.ssllabs.com/ssltest/)
+
+## Check Server Version
+[browserspy.dk](http://browserspy.dk/)
