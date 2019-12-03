@@ -11,3 +11,7 @@ Check DNS records
 
 
 [mxtoolbox.com](https://mxtoolbox.com/EmailHeaders.aspx)
+
+## Whois Lookup
+[whois.domaintools.com](http://whois.domaintools.com/)
+
