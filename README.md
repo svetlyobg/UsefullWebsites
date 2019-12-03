@@ -55,4 +55,17 @@
 
 [https://www.bulkemailchecker.com/free-email-checker/](https://www.bulkemailchecker.com/free-email-checker/)
 
+## Change the listening RDP port
+[how-to-change-the-listening-port-for-remote-desktop](https://support.microsoft.com/en-us/help/306759/how-to-change-the-listening-port-for-remote-desktop)
+
+1. Start Registry Editor.
+2. Locate and then click the following registry subkey:
+    HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\TermiServer\WinStations\RDP-Tcp\PortNumber
+3. On the Edit menu, click Modify, and then click Decimal.
+4. Type the new port number, and then click OK.
+5. Quit Registry Editor.
+6. Restart the computer.
+
+[]()
+
 []()
