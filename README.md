@@ -22,3 +22,11 @@ Check DNS records
 
 ## Check Server Version
 [browserspy.dk](http://browserspy.dk/)
+
+## IP Address Checker
+
+[https://www.whatsmyip.org](https://www.whatsmyip.org/)
+
+[https://whatismyipaddress.com/](https://whatismyipaddress.com/)
+
+[https://ifconfig.me/](https://ifconfig.me/)
