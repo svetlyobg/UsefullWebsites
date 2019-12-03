@@ -24,6 +24,8 @@
 
 [ssllabs.com](https://www.ssllabs.com/ssltest/)
 
+[https://ssltools.godaddy.com/views/certChecker](https://ssltools.godaddy.com/views/certChecker)
+
 ## Check Server Version
 [browserspy.dk](http://browserspy.dk/)
 
