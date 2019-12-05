@@ -77,3 +77,7 @@ mklink “C:\Users\%username%\AppData\Local\Microsoft\Outlook\ datafile.ost ” 
 
 ## Open Port Check Tool
 [https://www.canyouseeme.org/](https://www.canyouseeme.org/)
+
+## Virus Total
+Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community
+[https://www.virustotal.com/gui/home/upload](https://www.virustotal.com/gui/home/upload)
