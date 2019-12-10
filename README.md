@@ -93,3 +93,8 @@ Download Old Versions of any software [https://en.uptodown.com/windows](https://
 
 Mirror/Control Android Screen from PC, Stream your iPhone to PC in Real Time
 [https://www.apowersoft.com/phone-mirror](https://www.apowersoft.com/phone-mirror)
+
+## Total Uptime
+
+Improves availability, security, performance and cloud integration for DaaS, SaaS, APIs, Websites or any application
+[https://totaluptime.com/](https://totaluptime.com/)
