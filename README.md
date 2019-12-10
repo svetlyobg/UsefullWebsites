@@ -84,3 +84,7 @@ Analyze suspicious files and URLs to detect types of malware, automatically shar
 
 ## UpToDown
 Download Old Versions of any software [https://en.uptodown.com/windows](https://en.uptodown.com/windows)
+
+## Active Directory Audit Tool
+
+[https://specopssoft.com/active-directory-auditing-tools/?utm_source=programmatic&utm_medium=PPC&utm_campaign=Match](https://specopssoft.com/active-directory-auditing-tools/?utm_source=programmatic&utm_medium=PPC&utm_campaign=Match)
