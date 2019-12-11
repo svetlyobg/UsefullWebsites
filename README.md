@@ -98,3 +98,11 @@ Mirror/Control Android Screen from PC, Stream your iPhone to PC in Real Time
 
 Improves availability, security, performance and cloud integration for DaaS, SaaS, APIs, Websites or any application
 [https://totaluptime.com/](https://totaluptime.com/)
+
+## PortQry Command Line Port Scanner Version 2.0
+Troubleshoot TCP/IP connectivity issues
+
+portqry -n 11.22.33.44 -p tcp -e 80Type a message
+
+
+[https://www.microsoft.com/en-us/download/details.aspx?id=17148](https://www.microsoft.com/en-us/download/details.aspx?id=17148)
