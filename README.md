@@ -106,3 +106,7 @@ portqry -n 11.22.33.44 -p tcp -e 80Type a message
 
 
 [https://www.microsoft.com/en-us/download/details.aspx?id=17148](https://www.microsoft.com/en-us/download/details.aspx?id=17148)
+
+## Should I Remove It
+Decide what programs they should remove from their PC.
+[https://www.shouldiremoveit.com/](https://www.shouldiremoveit.com/)
