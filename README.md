@@ -115,3 +115,8 @@ Decide what programs they should remove from their PC.
 This site checks if a website is down for everyone or just you.
 
 [https://downforeveryoneorjustme.com/](https://downforeveryoneorjustme.com/)
+
+## Online QR decoder
+Decode a 1D or 2D barcode from an image on the web
+
+[https://zxing.org/w/decode.jspx](https://zxing.org/w/decode.jspx)
