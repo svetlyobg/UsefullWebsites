@@ -126,11 +126,13 @@ WatZatSong is the leading community of song namers in the worlds. Since 2006 our
 
 [https://www.watzatsong.com/en](https://www.watzatsong.com/en)
 
-## 
+## No More Ransom
+Check for ransomware decryptor
+
+[https://www.nomoreransom.org/](https://www.nomoreransom.org/)
 
 
 ## ID Ransomware
 Upload a ransom note and/or sample encrypted file to identify the ransomware that has encrypted your data.
-
 
 [https://id-ransomware.malwarehunterteam.com/](https://id-ransomware.malwarehunterteam.com/)
