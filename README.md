@@ -125,3 +125,12 @@ Decode a 1D or 2D barcode from an image on the web
 WatZatSong is the leading community of song namers in the worlds. Since 2006 our amazing community of music fans is able to name millions of songs that could be sung, hummed, recorded, remixed, etc.
 
 [https://www.watzatsong.com/en](https://www.watzatsong.com/en)
+
+## 
+
+
+## ID Ransomware
+Upload a ransom note and/or sample encrypted file to identify the ransomware that has encrypted your data.
+
+
+[https://id-ransomware.malwarehunterteam.com/](https://id-ransomware.malwarehunterteam.com/)
