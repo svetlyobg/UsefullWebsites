@@ -136,3 +136,8 @@ Check for ransomware decryptor
 Upload a ransom note and/or sample encrypted file to identify the ransomware that has encrypted your data.
 
 [https://id-ransomware.malwarehunterteam.com/](https://id-ransomware.malwarehunterteam.com/)
+
+## have i been pwned?
+Check if you have an account that has been compromised in a data breach
+
+[https://haveibeenpwned.com/](https://haveibeenpwned.com/)
