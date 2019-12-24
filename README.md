@@ -142,6 +142,10 @@ Check if you have an account that has been compromised in a data breach
 
 [https://haveibeenpwned.com/](https://haveibeenpwned.com/)
 
+## HOW SECURE IS MY PASSWORD?
+
+[https://howsecureismypassword.net/](https://howsecureismypassword.net/)
+
 ## Minecraft Item ID List
 
 [https://minecraftitemids.com/](https://minecraftitemids.com/)
