@@ -141,3 +141,7 @@ Upload a ransom note and/or sample encrypted file to identify the ransomware tha
 Check if you have an account that has been compromised in a data breach
 
 [https://haveibeenpwned.com/](https://haveibeenpwned.com/)
+
+## Minecraft Item ID List
+
+[https://minecraftitemids.com/](https://minecraftitemids.com/)
