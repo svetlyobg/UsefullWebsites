@@ -145,3 +145,7 @@ Check if you have an account that has been compromised in a data breach
 ## Minecraft Item ID List
 
 [https://minecraftitemids.com/](https://minecraftitemids.com/)
+
+## Big Numbers
+
+[http://www.thealmightyguru.com/Pointless/BigNumbers.html](http://www.thealmightyguru.com/Pointless/BigNumbers.html)
