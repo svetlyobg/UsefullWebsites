@@ -159,4 +159,5 @@ Check if you have an account that has been compromised in a data breach
 
 ## Alternative to
 Find alternative and similar software programs
+
 [https://alternativeto.net/](https://alternativeto.net/)
