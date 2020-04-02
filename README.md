@@ -161,3 +161,7 @@ Check if you have an account that has been compromised in a data breach
 Find alternative and similar software programs
 
 [https://alternativeto.net/](https://alternativeto.net/)
+
+## Microsoft Update Catalog
+
+[https://www.catalog.update.microsoft.com/home.aspx](https://www.catalog.update.microsoft.com/home.aspx)
