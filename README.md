@@ -165,3 +165,7 @@ Find alternative and similar software programs
 ## Microsoft Update Catalog
 
 [https://www.catalog.update.microsoft.com/home.aspx](https://www.catalog.update.microsoft.com/home.aspx)
+
+## First GoToMeeting? Let's do a quick system check:
+
+[https://link.gotomeeting.com/system-check](https://link.gotomeeting.com/system-check)
