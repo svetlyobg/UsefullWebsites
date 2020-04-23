@@ -169,3 +169,7 @@ Find alternative and similar software programs
 ## First GoToMeeting? Let's do a quick system check:
 
 [https://link.gotomeeting.com/system-check](https://link.gotomeeting.com/system-check)
+
+## FREE ONLINE OCR SERVICE
+
+[https://www.onlineocr.net/](https://www.onlineocr.net/)
