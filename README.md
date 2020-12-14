@@ -226,3 +226,7 @@ Find alternative and similar software programs
 ## Securing Your Web Browser
 
 [https://us-cert.cisa.gov/publications/securing-your-web-browser](https://us-cert.cisa.gov/publications/securing-your-web-browser)
+
+## WiGLE: Wireless Network Mapping
+
+[https://wigle.net/](https://wigle.net/)
