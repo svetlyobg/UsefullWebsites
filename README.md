@@ -194,3 +194,7 @@ Find alternative and similar software programs
 ## Enhanced Tracking Protection in Firefox for desktop
 
 [https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US)
+
+## Free Online Tools for Looking up Potentially Malicious Websites
+
+[https://zeltser.com/lookup-malicious-websites/](https://zeltser.com/lookup-malicious-websites/)
