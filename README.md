@@ -198,3 +198,7 @@ Find alternative and similar software programs
 ## Free Online Tools for Looking up Potentially Malicious Websites
 
 [https://zeltser.com/lookup-malicious-websites/](https://zeltser.com/lookup-malicious-websites/)
+
+## How to remove a Trojan, Virus, Worm, or other Malware
+
+[https://www.bleepingcomputer.com/tutorials/how-to-remove-a-trojan-virus-worm-or-malware/](https://www.bleepingcomputer.com/tutorials/how-to-remove-a-trojan-virus-worm-or-malware/)
