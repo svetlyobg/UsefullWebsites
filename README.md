@@ -176,16 +176,21 @@ Find alternative and similar software programs
 
 
 
-#Cyber Security
+# Cyber Security
 
-##Animated Map of How Tens of Thousands of Computers Were Infected With Ransomware
+## Animated Map of How Tens of Thousands of Computers Were Infected With Ransomware
 
 [https://www.nytimes.com/interactive/2017/05/12/world/europe/wannacry-ransomware-map.html](https://www.nytimes.com/interactive/2017/05/12/world/europe/wannacry-ransomware-map.html)
 
-##Browser Check - Update My Browser
+## Browser Check - Update My Browser
+
 [https://updatemybrowser.org/](https://updatemybrowser.org/)
 
-##Digital Attack Map
+## Digital Attack Map
+
 [https://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=18607&view=map](https://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=18607&view=map)
 
-[]()
+
+## Enhanced Tracking Protection in Firefox for desktop
+
+[https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US)
