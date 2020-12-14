@@ -214,3 +214,7 @@ Find alternative and similar software programs
 ## CYBERTHREAT REAL-TIME MAP
 
 [https://cybermap.kaspersky.com/](https://cybermap.kaspersky.com/)
+
+## Microsoft Safety Scanner
+
+[https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download)
