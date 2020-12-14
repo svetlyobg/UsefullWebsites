@@ -202,3 +202,7 @@ Find alternative and similar software programs
 ## How to remove a Trojan, Virus, Worm, or other Malware
 
 [https://www.bleepingcomputer.com/tutorials/how-to-remove-a-trojan-virus-worm-or-malware/](https://www.bleepingcomputer.com/tutorials/how-to-remove-a-trojan-virus-worm-or-malware/)
+
+## How to Turn Off Javascript the Easy Way
+
+[https://www.privacypolicies.com/blog/enable-disable-javascript/#firefox](https://www.privacypolicies.com/blog/enable-disable-javascript/#firefox)
