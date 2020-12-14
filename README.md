@@ -210,3 +210,7 @@ Find alternative and similar software programs
 ## It’s an Attack!
 
 [https://www.itisatrap.org/firefox/its-an-attack.html](https://www.itisatrap.org/firefox/its-an-attack.html)
+
+## CYBERTHREAT REAL-TIME MAP
+
+[https://cybermap.kaspersky.com/](https://cybermap.kaspersky.com/)
