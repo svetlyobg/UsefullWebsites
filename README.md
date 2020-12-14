@@ -185,5 +185,7 @@ Find alternative and similar software programs
 ##Browser Check - Update My Browser
 [https://updatemybrowser.org/](https://updatemybrowser.org/)
 
+##Digital Attack Map
+[https://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=18607&view=map](https://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=18607&view=map)
 
 []()
