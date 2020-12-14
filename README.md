@@ -222,3 +222,7 @@ Find alternative and similar software programs
 ## World's Biggest Data Breaches & Hacks
 
 [https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/](https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/)
+
+## Securing Your Web Browser
+
+[https://us-cert.cisa.gov/publications/securing-your-web-browser](https://us-cert.cisa.gov/publications/securing-your-web-browser)
