@@ -218,3 +218,7 @@ Find alternative and similar software programs
 ## Microsoft Safety Scanner
 
 [https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download)
+
+## World's Biggest Data Breaches & Hacks
+
+[https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/](https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/)
