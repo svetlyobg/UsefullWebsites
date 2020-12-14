@@ -234,3 +234,7 @@ Find alternative and similar software programs
 ## How Secure Is My Password?
 
 [https://www.security.org/how-secure-is-my-password/](https://www.security.org/how-secure-is-my-password/)
+
+## PGP Example Encryption
+
+[http://atom.smasher.org/pgp/](http://atom.smasher.org/pgp/)
