@@ -238,3 +238,7 @@ Find alternative and similar software programs
 ## PGP Example Encryption
 
 [http://atom.smasher.org/pgp/](http://atom.smasher.org/pgp/)
+
+## Practical Cryptography - MD5 Hash
+
+[http://practicalcryptography.com/hashes/md5-hash](http://practicalcryptography.com/hashes/md5-hash)
