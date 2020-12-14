@@ -230,3 +230,7 @@ Find alternative and similar software programs
 ## WiGLE: Wireless Network Mapping
 
 [https://wigle.net/](https://wigle.net/)
+
+## How Secure Is My Password?
+
+[https://www.security.org/how-secure-is-my-password/](https://www.security.org/how-secure-is-my-password/)
