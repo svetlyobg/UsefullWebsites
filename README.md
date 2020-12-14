@@ -206,3 +206,7 @@ Find alternative and similar software programs
 ## How to Turn Off Javascript the Easy Way
 
 [https://www.privacypolicies.com/blog/enable-disable-javascript/#firefox](https://www.privacypolicies.com/blog/enable-disable-javascript/#firefox)
+
+## It’s an Attack!
+
+[https://www.itisatrap.org/firefox/its-an-attack.html](https://www.itisatrap.org/firefox/its-an-attack.html)
