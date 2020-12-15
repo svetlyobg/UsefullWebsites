@@ -266,3 +266,7 @@ Find alternative and similar software programs
 ## Email Header Analyzer Tool To Find Spam
 
 [https://www.whatismyip.com/email-header-analyzer/](https://www.whatismyip.com/email-header-analyzer/)
+
+## Google Hacking Database
+
+[https://www.exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database)
