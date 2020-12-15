@@ -346,3 +346,7 @@ Find alternative and similar software programs
 ## Nmap Online Port Scanner
 
 [https://hackertarget.com/nmap-online-port-scanner/](https://hackertarget.com/nmap-online-port-scanner/)
+
+## Qualys BrowserCheck
+
+[https://browsercheck.qualys.com/](https://browsercheck.qualys.com/)
