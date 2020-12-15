@@ -330,3 +330,7 @@ Find alternative and similar software programs
 ## IP Address Lookup
 
 [https://www.whatismyip.com/ip-address-lookup/](https://www.whatismyip.com/ip-address-lookup/)
+
+## 10 Minute Mail
+
+[https://10minutemail.com/](https://10minutemail.com/)
