@@ -354,3 +354,7 @@ Find alternative and similar software programs
 ## Microsoft Virtual Machines
 
 [https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
+
+## DNS Tools
+
+[https://w3dt.net//](https://w3dt.net//)
