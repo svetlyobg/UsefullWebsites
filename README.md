@@ -306,3 +306,7 @@ Find alternative and similar software programs
 ## Serwer Archie
 
 [http://archie.icm.edu.pl/](http://archie.icm.edu.pl/)
+
+## Company and Person Lookup
+
+[https://www.sec.gov/edgar/searchedgar/companysearch.html](https://www.sec.gov/edgar/searchedgar/companysearch.html)
