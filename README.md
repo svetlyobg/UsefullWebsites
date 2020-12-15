@@ -358,3 +358,7 @@ Find alternative and similar software programs
 ## DNS Tools
 
 [https://w3dt.net//](https://w3dt.net//)
+
+## whois.com
+
+[https://www.whois.com/whois/eample.com](https://www.whois.com/whois/eample.com)
