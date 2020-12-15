@@ -310,3 +310,7 @@ Find alternative and similar software programs
 ## Company and Person Lookup
 
 [https://www.sec.gov/edgar/searchedgar/companysearch.html](https://www.sec.gov/edgar/searchedgar/companysearch.html)
+
+## Shodan
+
+[https://www.shodan.io/](https://www.shodan.io/)
