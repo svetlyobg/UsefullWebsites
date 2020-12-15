@@ -282,3 +282,7 @@ Find alternative and similar software programs
 ## AnyWho - Finding People, Places, and Businesses
 
 [https://www.anywho.com/](https://www.anywho.com/)
+
+## HTTrack Website Copier - Free Software Offline Browser (GNU GPL)
+
+[https://www.httrack.com/](https://www.httrack.com/)
