@@ -302,3 +302,7 @@ Find alternative and similar software programs
 ## Zaba - People Search
 
 [https://www.zabasearch.com/](https://www.zabasearch.com/)
+
+## Serwer Archie
+
+[http://archie.icm.edu.pl/](http://archie.icm.edu.pl/)
