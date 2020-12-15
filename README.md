@@ -326,3 +326,7 @@ Find alternative and similar software programs
 ## Simple & inexpensive website monitoring
 
 [https://updown.io/](https://updown.io/)
+
+## IP Address Lookup
+
+[https://www.whatismyip.com/ip-address-lookup/](https://www.whatismyip.com/ip-address-lookup/)
