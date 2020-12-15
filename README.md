@@ -262,3 +262,7 @@ Find alternative and similar software programs
 ## Domain Name Analyzer
 
 [https://domainpunch.com/dna](https://domainpunch.com/dna)
+
+## Email Header Analyzer Tool To Find Spam
+
+[https://www.whatismyip.com/email-header-analyzer/](https://www.whatismyip.com/email-header-analyzer/)
