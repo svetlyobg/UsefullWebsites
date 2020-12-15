@@ -254,3 +254,7 @@ Find alternative and similar software programs
 ## TorFlow
 
 [http://torflow.uncharted.software/#?ML=-41.9677734375,40.01078714046552,4](http://torflow.uncharted.software/#?ML=-41.9677734375,40.01078714046552,4)
+
+## Dig (DNS lookup)
+
+[https://toolbox.googleapps.com/apps/dig/](https://toolbox.googleapps.com/apps/dig/)
