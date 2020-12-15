@@ -246,3 +246,7 @@ Find alternative and similar software programs
 ## Threat Landscape and Good Practice Guide for Internet Infrastructure
 
 [https://www.enisa.europa.eu/topics/threat-risk-management/threats-and-trends/enisa-thematic-landscapes/threat-landscape-of-the-internet-infrastructure/detailed-mind-map-for-internet-infrastructure-assets](https://www.enisa.europa.eu/topics/threat-risk-management/threats-and-trends/enisa-thematic-landscapes/threat-landscape-of-the-internet-infrastructure/detailed-mind-map-for-internet-infrastructure-assets)
+
+## The Different Types of Cyber Attacks
+
+[https://s17528.pcdn.co/wp-content/uploads/2018/06/typesofcyber.jpg](https://s17528.pcdn.co/wp-content/uploads/2018/06/typesofcyber.jpg)
