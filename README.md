@@ -298,3 +298,7 @@ Find alternative and similar software programs
 ## Montastic - The Mighty Website Monitoring Service
 
 [https://montastic.com/](https://montastic.com/)
+
+## Zaba - People Search
+
+[https://www.zabasearch.com/](https://www.zabasearch.com/)
