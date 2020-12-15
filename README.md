@@ -272,4 +272,9 @@ Find alternative and similar software programs
 [https://www.exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database)
 
 ## Advanced Google Search
+
 [https://www.google.com/advanced_search](https://www.google.com/advanced_search)
+
+## Google Alerts
+
+[https://www.google.com/alerts](https://www.google.com/alerts)
