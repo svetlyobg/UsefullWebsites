@@ -338,3 +338,7 @@ Find alternative and similar software programs
 ## dns recon & research, find & lookup dns records
 
 [https://dnsdumpster.com/](https://dnsdumpster.com/)
+
+##  Verify DNS issues, Analyze HAR and log files 
+
+[https://toolbox.googleapps.com/apps/main/](https://toolbox.googleapps.com/apps/main/)
