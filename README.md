@@ -242,3 +242,7 @@ Find alternative and similar software programs
 ## Practical Cryptography - MD5 Hash
 
 [http://practicalcryptography.com/hashes/md5-hash](http://practicalcryptography.com/hashes/md5-hash)
+
+## Threat Landscape and Good Practice Guide for Internet Infrastructure
+
+[https://www.enisa.europa.eu/topics/threat-risk-management/threats-and-trends/enisa-thematic-landscapes/threat-landscape-of-the-internet-infrastructure/detailed-mind-map-for-internet-infrastructure-assets](https://www.enisa.europa.eu/topics/threat-risk-management/threats-and-trends/enisa-thematic-landscapes/threat-landscape-of-the-internet-infrastructure/detailed-mind-map-for-internet-infrastructure-assets)
