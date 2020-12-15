@@ -350,3 +350,7 @@ Find alternative and similar software programs
 ## Qualys BrowserCheck
 
 [https://browsercheck.qualys.com/](https://browsercheck.qualys.com/)
+
+## Microsoft Virtual Machines
+
+[https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
