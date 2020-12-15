@@ -286,3 +286,7 @@ Find alternative and similar software programs
 ## HTTrack Website Copier - Free Software Offline Browser (GNU GPL)
 
 [https://www.httrack.com/](https://www.httrack.com/)
+
+## Indexing the World Wide Web
+
+[https://research.google/pubs/pub37043/](https://research.google/pubs/pub37043/)
