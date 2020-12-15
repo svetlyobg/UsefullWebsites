@@ -270,3 +270,6 @@ Find alternative and similar software programs
 ## Google Hacking Database
 
 [https://www.exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database)
+
+## Advanced Google Search
+[https://www.google.com/advanced_search](https://www.google.com/advanced_search)
