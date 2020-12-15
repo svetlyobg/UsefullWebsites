@@ -322,3 +322,7 @@ Find alternative and similar software programs
 ## IPAddress.com
 
 [https://www.ipaddress.com/](https://www.ipaddress.com/)
+
+## Simple & inexpensive website monitoring
+
+[https://updown.io/](https://updown.io/)
