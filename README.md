@@ -258,3 +258,7 @@ Find alternative and similar software programs
 ## Dig (DNS lookup)
 
 [https://toolbox.googleapps.com/apps/dig/](https://toolbox.googleapps.com/apps/dig/)
+
+## Domain Name Analyzer
+
+[https://domainpunch.com/dna](https://domainpunch.com/dna)
