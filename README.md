@@ -362,3 +362,7 @@ Find alternative and similar software programs
 ## whois.com
 
 [https://www.whois.com/whois/eample.com](https://www.whois.com/whois/eample.com)
+
+## CVE Details
+
+[https://www.cvedetails.com/vulnerability-list/opsqli-1/sql-injection.html](https://www.cvedetails.com/vulnerability-list/opsqli-1/sql-injection.html)
