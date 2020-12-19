@@ -243,6 +243,130 @@ Find alternative and similar software programs
 
 [http://practicalcryptography.com/hashes/md5-hash](http://practicalcryptography.com/hashes/md5-hash)
 
+## Threat Landscape and Good Practice Guide for Internet Infrastructure
+
+[https://www.enisa.europa.eu/topics/threat-risk-management/threats-and-trends/enisa-thematic-landscapes/threat-landscape-of-the-internet-infrastructure/detailed-mind-map-for-internet-infrastructure-assets](https://www.enisa.europa.eu/topics/threat-risk-management/threats-and-trends/enisa-thematic-landscapes/threat-landscape-of-the-internet-infrastructure/detailed-mind-map-for-internet-infrastructure-assets)
+
+## The Different Types of Cyber Attacks
+
+[https://s17528.pcdn.co/wp-content/uploads/2018/06/typesofcyber.jpg](https://s17528.pcdn.co/wp-content/uploads/2018/06/typesofcyber.jpg)
+
+## TorFlow
+
+[http://torflow.uncharted.software/#?ML=-41.9677734375,40.01078714046552,4](http://torflow.uncharted.software/#?ML=-41.9677734375,40.01078714046552,4)
+
+## Dig (DNS lookup)
+
+[https://toolbox.googleapps.com/apps/dig/](https://toolbox.googleapps.com/apps/dig/)
+
+## Domain Name Analyzer
+
+[https://domainpunch.com/dna](https://domainpunch.com/dna)
+
+## Email Header Analyzer Tool To Find Spam
+
+[https://www.whatismyip.com/email-header-analyzer/](https://www.whatismyip.com/email-header-analyzer/)
+
+## Google Hacking Database
+
+[https://www.exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database)
+
+## Advanced Google Search
+
+[https://www.google.com/advanced_search](https://www.google.com/advanced_search)
+
+## Google Alerts
+
+[https://www.google.com/alerts](https://www.google.com/alerts)
+
+## AnyWho - Finding People, Places, and Businesses
+
+[https://www.anywho.com/](https://www.anywho.com/)
+
+## HTTrack Website Copier - Free Software Offline Browser (GNU GPL)
+
+[https://www.httrack.com/](https://www.httrack.com/)
+
+## Indexing the World Wide Web
+
+[https://research.google/pubs/pub37043/](https://research.google/pubs/pub37043/)
+
+## Internet Archive 
+
+[https://archive.org/](https://archive.org/)
+
+## Montastic - The Mighty Website Monitoring Service
+
+[https://montastic.com/](https://montastic.com/)
+
+## Zaba - People Search
+
+[https://www.zabasearch.com/](https://www.zabasearch.com/)
+
+## Serwer Archie
+
+[http://archie.icm.edu.pl/](http://archie.icm.edu.pl/)
+
+## Company and Person Lookup
+
+[https://www.sec.gov/edgar/searchedgar/companysearch.html](https://www.sec.gov/edgar/searchedgar/companysearch.html)
+
+## Shodan
+
+[https://www.shodan.io/](https://www.shodan.io/)
+
+## Spokeo - People Search - White Pages
+
+[https://www.spokeo.com/](https://www.spokeo.com/)
+
+## IPAddress.com
+
+[https://www.ipaddress.com/](https://www.ipaddress.com/)
+
+## Simple & inexpensive website monitoring
+
+[https://updown.io/](https://updown.io/)
+
+## IP Address Lookup
+
+[https://www.whatismyip.com/ip-address-lookup/](https://www.whatismyip.com/ip-address-lookup/)
+
+## 10 Minute Mail
+
+[https://10minutemail.com/](https://10minutemail.com/)
+
+## dns recon & research, find & lookup dns records
+
+[https://dnsdumpster.com/](https://dnsdumpster.com/)
+
+##  Verify DNS issues, Analyze HAR and log files 
+
+[https://toolbox.googleapps.com/apps/main/](https://toolbox.googleapps.com/apps/main/)
+
+## Nmap Online Port Scanner
+
+[https://hackertarget.com/nmap-online-port-scanner/](https://hackertarget.com/nmap-online-port-scanner/)
+
+## Qualys BrowserCheck
+
+[https://browsercheck.qualys.com/](https://browsercheck.qualys.com/)
+
+## Microsoft Virtual Machines
+
+[https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
+
+## DNS Tools
+
+[https://w3dt.net//](https://w3dt.net//)
+
+## whois.com
+
+[https://www.whois.com/whois/eample.com](https://www.whois.com/whois/eample.com)
+
+## CVE Details
+
+[https://www.cvedetails.com/vulnerability-list/opsqli-1/sql-injection.html](https://www.cvedetails.com/vulnerability-list/opsqli-1/sql-injection.html)
+
 ## ISF Security Forum
 
 [https://www.securityforum.org/](https://www.securityforum.org/)
