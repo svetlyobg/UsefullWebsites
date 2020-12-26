@@ -382,3 +382,7 @@ Find alternative and similar software programs
 ## The Trusted Source for IP Address Data
 
 [https://ipinfo.io/](https://ipinfo.io/)
+
+## Free online fake mailer
+
+[https://emkei.cz](https://emkei.cz)
