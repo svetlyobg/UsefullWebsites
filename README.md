@@ -374,3 +374,7 @@ Find alternative and similar software programs
 ## Ports Database
 
 [https://www.speedguide.net/ports.php](https://www.speedguide.net/ports.php)
+
+## Microsoft Security Compliance Manager 4.0
+
+[https://www.microsoft.com/en-us/download/details.aspx?id=53353](https://www.microsoft.com/en-us/download/details.aspx?id=53353)
