@@ -370,3 +370,7 @@ Find alternative and similar software programs
 ## ISF Security Forum
 
 [https://www.securityforum.org/](https://www.securityforum.org/)
+
+## Ports Database
+
+[https://www.speedguide.net/ports.php](https://www.speedguide.net/ports.php)
