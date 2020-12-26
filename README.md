@@ -378,3 +378,7 @@ Find alternative and similar software programs
 ## Microsoft Security Compliance Manager 4.0
 
 [https://www.microsoft.com/en-us/download/details.aspx?id=53353](https://www.microsoft.com/en-us/download/details.aspx?id=53353)
+
+## The Trusted Source for IP Address Data
+
+[https://ipinfo.io/](https://ipinfo.io/)
