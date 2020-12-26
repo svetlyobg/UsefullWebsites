@@ -386,3 +386,7 @@ Find alternative and similar software programs
 ## Free online fake mailer
 
 [https://emkei.cz](https://emkei.cz)
+
+## AV-Comparatives
+
+[http://www.av-comparatives.org/test-results/](http://www.av-comparatives.org/test-results/)
