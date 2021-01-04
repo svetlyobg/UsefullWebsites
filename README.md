@@ -414,3 +414,7 @@ Find alternative and similar software programs
 ## Online Disassembler
 
 [https://onlinedisassembler.com/static/home/index.html](https://onlinedisassembler.com/static/home/index.html)
+
+## File Signature Database
+
+[https://filesignatures.net](https://filesignatures.net)
