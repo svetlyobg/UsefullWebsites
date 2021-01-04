@@ -398,3 +398,7 @@ Find alternative and similar software programs
 ## NIST - Computer Security Incident Handling Guide
 
 [https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
+
+## FREE ONLINE EXIF VIEWER
+
+[https://www.metadata2go.com](https://www.metadata2go.com)
