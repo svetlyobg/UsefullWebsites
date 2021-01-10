@@ -418,3 +418,7 @@ Find alternative and similar software programs
 ## File Signature Database
 
 [https://filesignatures.net](https://filesignatures.net)
+
+## Synthetic data generation - This person does not exist
+
+[https://thispersondoesnotexist.com](https://thispersondoesnotexist.com)
