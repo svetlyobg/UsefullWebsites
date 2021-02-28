@@ -111,6 +111,9 @@ portqry -n 11.22.33.44 -p tcp -e 80Type a message
 Decide what programs they should remove from their PC.
 [https://www.shouldiremoveit.com/](https://www.shouldiremoveit.com/)
 
+## Advanced System tools and Developer Component
+[https://www.resplendence.com/downloads](https://www.resplendence.com/downloads)
+
 ## Down for Everyone or Just Me
 This site checks if a website is down for everyone or just you.
 
