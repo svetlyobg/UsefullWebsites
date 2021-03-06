@@ -229,6 +229,9 @@ Find alternative and similar software programs
 
 [https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/](https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/)
 
+## National Vulnerability Database
+[https://nvd.nist.gov/](https://nvd.nist.gov/)
+
 ## Securing Your Web Browser
 
 [https://us-cert.cisa.gov/publications/securing-your-web-browser](https://us-cert.cisa.gov/publications/securing-your-web-browser)
