@@ -197,6 +197,14 @@ Find alternative and similar software programs
 
 [https://cybermap.kaspersky.com/](https://cybermap.kaspersky.com/)
 
+## WiGLE: Wireless Network Mapping
+
+[https://wigle.net/](https://wigle.net/)
+
+## TorFlow
+
+[http://torflow.uncharted.software/#?ML=-41.9677734375,40.01078714046552,4](http://torflow.uncharted.software/#?ML=-41.9677734375,40.01078714046552,4)
+
 ## Animated Map of How Tens of Thousands of Computers Were Infected With Ransomware
 
 [https://www.nytimes.com/interactive/2017/05/12/world/europe/wannacry-ransomware-map.html](https://www.nytimes.com/interactive/2017/05/12/world/europe/wannacry-ransomware-map.html)
@@ -240,9 +248,6 @@ Find alternative and similar software programs
 
 [https://us-cert.cisa.gov/publications/securing-your-web-browser](https://us-cert.cisa.gov/publications/securing-your-web-browser)
 
-## WiGLE: Wireless Network Mapping
-
-[https://wigle.net/](https://wigle.net/)
 
 ## How Secure Is My Password?
 
@@ -263,10 +268,6 @@ Find alternative and similar software programs
 ## The Different Types of Cyber Attacks
 
 [https://s17528.pcdn.co/wp-content/uploads/2018/06/typesofcyber.jpg](https://s17528.pcdn.co/wp-content/uploads/2018/06/typesofcyber.jpg)
-
-## TorFlow
-
-[http://torflow.uncharted.software/#?ML=-41.9677734375,40.01078714046552,4](http://torflow.uncharted.software/#?ML=-41.9677734375,40.01078714046552,4)
 
 ## Dig (DNS lookup)
 
@@ -416,7 +417,7 @@ Find alternative and similar software programs
 
 [https://www.metadata2go.com](https://www.metadata2go.com)
 
-##Free Online JPEG EXIF data remover
+## Free Online JPEG EXIF data remover
 
 [https://www.exifremove.com](https://www.exifremove.com)
 
