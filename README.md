@@ -374,6 +374,10 @@ Find alternative and similar software programs
 
 [https://www.zero-day.cz/] (https://www.zero-day.cz/)
 
+## CVE MITRE publicly disclosed cybersecurity vulnerabilities
+
+[https://cve.mitre.org/index.html](https://cve.mitre.org/index.html)
+
 ## ISF Security Forum
 
 [https://www.securityforum.org/](https://www.securityforum.org/)
