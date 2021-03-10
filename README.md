@@ -370,6 +370,10 @@ Find alternative and similar software programs
 
 [https://www.cvedetails.com/vulnerability-list/opsqli-1/sql-injection.html](https://www.cvedetails.com/vulnerability-list/opsqli-1/sql-injection.html)
 
+## Zero-day Vulnerability Database
+
+[https://www.zero-day.cz/] (https://www.zero-day.cz/)
+
 ## ISF Security Forum
 
 [https://www.securityforum.org/](https://www.securityforum.org/)
