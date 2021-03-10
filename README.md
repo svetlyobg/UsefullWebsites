@@ -114,6 +114,9 @@ portqry -n 11.22.33.44 -p tcp -e 80Type a message
 Decide what programs they should remove from their PC.
 [https://www.shouldiremoveit.com/](https://www.shouldiremoveit.com/)
 
+## Advanced System tools and Developer Component
+[https://www.resplendence.com/downloads](https://www.resplendence.com/downloads)
+
 ## Down for Everyone or Just Me
 This site checks if a website is down for everyone or just you.
 
@@ -181,6 +184,27 @@ Find alternative and similar software programs
 
 # Cyber Security
 
+
+## Looking Glass Theat Map 
+
+[https://map.lookingglasscyber.com/](https://map.lookingglasscyber.com/)
+
+## Digital Attack Map
+
+[https://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=18607&view=map](https://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=18607&view=map)
+
+## CYBERTHREAT REAL-TIME MAP
+
+[https://cybermap.kaspersky.com/](https://cybermap.kaspersky.com/)
+
+## WiGLE: Wireless Network Mapping
+
+[https://wigle.net/](https://wigle.net/)
+
+## TorFlow
+
+[http://torflow.uncharted.software/#?ML=-41.9677734375,40.01078714046552,4](http://torflow.uncharted.software/#?ML=-41.9677734375,40.01078714046552,4)
+
 ## Animated Map of How Tens of Thousands of Computers Were Infected With Ransomware
 
 [https://www.nytimes.com/interactive/2017/05/12/world/europe/wannacry-ransomware-map.html](https://www.nytimes.com/interactive/2017/05/12/world/europe/wannacry-ransomware-map.html)
@@ -188,11 +212,6 @@ Find alternative and similar software programs
 ## Browser Check - Update My Browser
 
 [https://updatemybrowser.org/](https://updatemybrowser.org/)
-
-## Digital Attack Map
-
-[https://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=18607&view=map](https://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=18607&view=map)
-
 
 ## Enhanced Tracking Protection in Firefox for desktop
 
@@ -214,10 +233,6 @@ Find alternative and similar software programs
 
 [https://www.itisatrap.org/firefox/its-an-attack.html](https://www.itisatrap.org/firefox/its-an-attack.html)
 
-## CYBERTHREAT REAL-TIME MAP
-
-[https://cybermap.kaspersky.com/](https://cybermap.kaspersky.com/)
-
 ## Microsoft Safety Scanner
 
 [https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download)
@@ -226,13 +241,13 @@ Find alternative and similar software programs
 
 [https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/](https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/)
 
+## National Vulnerability Database
+[https://nvd.nist.gov/](https://nvd.nist.gov/)
+
 ## Securing Your Web Browser
 
 [https://us-cert.cisa.gov/publications/securing-your-web-browser](https://us-cert.cisa.gov/publications/securing-your-web-browser)
 
-## WiGLE: Wireless Network Mapping
-
-[https://wigle.net/](https://wigle.net/)
 
 ## How Secure Is My Password?
 
@@ -253,10 +268,6 @@ Find alternative and similar software programs
 ## The Different Types of Cyber Attacks
 
 [https://s17528.pcdn.co/wp-content/uploads/2018/06/typesofcyber.jpg](https://s17528.pcdn.co/wp-content/uploads/2018/06/typesofcyber.jpg)
-
-## TorFlow
-
-[http://torflow.uncharted.software/#?ML=-41.9677734375,40.01078714046552,4](http://torflow.uncharted.software/#?ML=-41.9677734375,40.01078714046552,4)
 
 ## Dig (DNS lookup)
 
@@ -414,7 +425,7 @@ Find alternative and similar software programs
 
 [https://www.metadata2go.com](https://www.metadata2go.com)
 
-##Free Online JPEG EXIF data remover
+## Free Online JPEG EXIF data remover
 
 [https://www.exifremove.com](https://www.exifremove.com)
 
