@@ -180,6 +180,10 @@ Find alternative and similar software programs
 
 [https://www.onlineocr.net/](https://www.onlineocr.net/)
 
+## Group Policy Home
+
+[https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.AppPrivacy::LetAppsAccessCamera](https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.AppPrivacy::LetAppsAccessCamera)
+
 
 
 # Cyber Security
