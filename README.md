@@ -365,6 +365,10 @@ Find alternative and similar software programs
 
 [https://hackertarget.com/nmap-online-port-scanner/](https://hackertarget.com/nmap-online-port-scanner/)
 
+## Online Port Scanner with Nmap - Discover open TCP ports | Pentest-Tools.com
+
+[https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
+
 ## Qualys BrowserCheck
 
 [https://browsercheck.qualys.com/](https://browsercheck.qualys.com/)
