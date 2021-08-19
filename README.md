@@ -455,3 +455,6 @@ Find alternative and similar software programs
 
 ## ANY.RUN - Interactive Online Malware Sandbox
 [https://any.run/](https://any.run/)
+
+## Malware Analysis Platform
+[https://www.intezer.com/](https://www.intezer.com/)
