@@ -458,3 +458,6 @@ Find alternative and similar software programs
 
 ## Malware Analysis Platform
 [https://www.intezer.com/](https://www.intezer.com/)
+
+## Pentest-Tools.com | 25+ Online Penetration Testing Tools
+[https://pentest-tools.com/home](https://pentest-tools.com/home)
