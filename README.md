@@ -452,3 +452,6 @@ Find alternative and similar software programs
 ## Reverse Whois Lookup
 
 [https://viewdns.info/reversewhois/](https://viewdns.info/reversewhois/)
+
+## ANY.RUN - Interactive Online Malware Sandbox
+[https://any.run/](https://any.run/)
