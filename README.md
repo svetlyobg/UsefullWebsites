@@ -461,3 +461,7 @@ Find alternative and similar software programs
 
 ## Pentest-Tools.com | 25+ Online Penetration Testing Tools
 [https://pentest-tools.com/home](https://pentest-tools.com/home)
+
+## HTTP Headers Check- Soft Galinov
+
+[https://softgalinov.com/](https://softgalinov.com/)
