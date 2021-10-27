@@ -184,6 +184,9 @@ Find alternative and similar software programs
 
 [https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.AppPrivacy::LetAppsAccessCamera](https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.AppPrivacy::LetAppsAccessCamera)
 
+## List of SMS Gateways
+
+[https://www.liquisearch.com/list_of_sms_gateways](https://www.liquisearch.com/list_of_sms_gateways)
 
 
 # Cyber Security
