@@ -1,3 +1,11 @@
+![GitHub all releases](https://img.shields.io/github/downloads/svetlyobg/UsefullWebsites/total?logo=GitHub&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/svetlyobg/UsefullWebsites)
+![GitHub top language](https://img.shields.io/github/languages/top/svetlyobg/UsefullWebsites)
+![GitHub language count](https://img.shields.io/github/languages/count/svetlyobg/UsefullWebsites)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/svetlyobg/UsefullWebsites)
+![GitHub issues](https://img.shields.io/github/issues/svetlyobg/UsefullWebsites)
+![Twitter Follow](https://img.shields.io/twitter/follow/svkosev?style=social)
+
 # UsefullWebsites
 
 ## Check DNS records
