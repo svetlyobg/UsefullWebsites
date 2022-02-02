@@ -493,4 +493,45 @@ Find alternative and similar software programs
 
 # OSINT Tools
 
+## Hunter
+
 [Find email addresses in seconds](https://hunter.io/)
+
+## Phonebook.cz - Intelligence X
+
+[Phonebook lists all domains, email addresses, or URLs for the given input domain](https://phonebook.cz/)
+
+## Norbert
+
+[Email Finder: Free 50 Verified Email Addresses](https://www.voilanorbert.com/)
+
+## Clearbit
+
+[The marketing data engine to deeply understand your customers](https://clearbit.com/)
+
+## Emailhippo
+
+[Email Address Verifier](https://tools.emailhippo.com/)
+
+## Email Checker
+
+[Verify Email Address Online](https://email-checker.net/)
+
+## breach-parse
+[A tool for parsing breached passwords](https://github.com/hmaverickadams/breach-parse)
+
+## Dehashed
+[credential leaks](https://dehashed.com/)
+
+## Breachaware
+[credential leaks](https://breachaware.com/dashboard)
+
+## Hashes
+[Get Hashes](https://hashes.com/en/decrypt/hash)
+
+## Sublist3r
+
+[Fast subdomains enumeration tool for penetration testers](https://github.com/aboul3la/Sublist3r)
+
+## Certificate Search
+[Certificate Search](https://crt.sh/)
