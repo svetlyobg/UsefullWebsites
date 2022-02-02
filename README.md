@@ -489,4 +489,4 @@ Find alternative and similar software programs
 
 # OSINT Tools
 
-[https://hunter.io/](Find email addresses in seconds)
+[Find email addresses in seconds](https://hunter.io/)
