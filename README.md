@@ -485,6 +485,10 @@ Find alternative and similar software programs
 
 [https://softgalinov.com/](https://softgalinov.com/)
 
+## 2FA Directory
+
+[List of websites and whether or not they support 2FA](https://2fa.directory/)
+
 <hr>
 
 # OSINT Tools
