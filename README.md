@@ -614,6 +614,9 @@ Use bing to search ip:123.456.789.012
 ## Subdomain Search
 [Knock Subdomain Scan](https://github.com/guelfoweb/knock)
 
+## Shodan
+[Search Engine for the Internet of Everything](https://www.shodan.io/)
+
 ### Twitter
 
 ## Twitter Advanced Search
