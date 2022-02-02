@@ -535,3 +535,86 @@ Find alternative and similar software programs
 
 ## Certificate Search
 [Certificate Search](https://crt.sh/)
+
+## OWASP Amass Project 
+[Open source information gathering and active reconnaissance techniques](https://github.com/OWASP/Amass)
+
+## BuiltWith Technology Lookup
+[Find out what websites are BuiltWith](https://builtwith.com/)
+
+## WhatWeb
+[Identifies websites, recognises web technologies ](https://www.kali.org/tools/whatweb/)
+
+## Google Search Operators
+[Google advanced search operators](https://ahrefs.com/blog/google-advanced-search-operators/)
+
+## Exploit Database
+[Exploit Database](https://www.exploit-db.com/)
+
+## Randomly Generated Identity
+[Randomly Generated Identity](https://www.fakenamegenerator.com/)
+
+## This Person Does Not Exist
+[Fake People Images](https://thispersondoesnotexist.com/)
+
+## Image Metadata Viewer
+[Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi)
+
+## Geo Guesser
+[Recognize surroundings](https://www.geoguessr.com/)
+
+## Username and Domain Name Checker
+[Username and Domain Name Checker](https://namechk.com/)
+
+## WhatsMyName Web
+[Enumerate usernames](https://whatsmyname.app/)
+
+## Find Available Username
+[Find Available Username](https://namecheckup.com/)
+
+## White Page
+[White Page](https://www.whitepages.com/reverse-address)
+
+## Whois Lookup
+[Whois Lookup](https://whois.domaintools.com/)
+
+## Site Report
+[Site Report](https://www.netcraft.com/site_report?url=YourDomainNameHere)
+
+## Robtex
+[research of IP numbers, Domain names, etc](https://www.robtex.com/)
+
+
+### Twitter
+
+## Twitter Advanced Search
+[Twitter Advanced Search](https://twitter.com/search-advanced)
+
+## Sleeping Time
+[Find the sleeping schedule of anyone on Twitter](https://sleepingtime.org/)
+
+## Analyze Words
+[Analyze Words](http://analyzewords.com/)
+
+## Insights & analytics for tweets & timelines
+[Insights & analytics for tweets & timelines](https://socialbearing.com/)
+
+## Snapchat Map
+[Snapchat Map](https://map.snapchat.com/)
+
+## One Million Tweet Map
+[One Million Tweet Map](https://onemilliontweetmap.com/?center=25.505,-0.09&zoom=2&search=&timeStep=0&timeSelector=0&hashtag1=&hashtag2=sad&sidebar=yes&hashtagBattle=0&timeRange=0&timeRange=25&heatmap=0&sun=0&cluster=1)
+
+## Wayback Machine
+[Wayback Machine](https://web.archive.org/)
+
+## Tweets Per Hour
+[Check if an account is bot](https://makeadverbsgreatagain.org/allegedly/)
+
+### Instagram
+
+google search: 
+site:instagram.com intext:USERNAME
+
+## Google Maps, Aerial Imagery and Google Street View 
+[Google Maps, Aerial Imagery and Google Street View ](http://data.mashedworld.com/dualmaps/map.htm)
