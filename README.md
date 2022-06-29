@@ -526,6 +526,9 @@ Find alternative and similar software programs
 ## Breachaware
 [credential leaks](https://breachaware.com/dashboard)
 
+## Data Breach Check (Have I Been Pwned)
+[Data Breach Check (Have I Been Pwned)](https://www.iplocation.net/data-breach-check)
+
 ## Hashes
 [Get Hashes](https://hashes.com/en/decrypt/hash)
 
