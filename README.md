@@ -533,7 +533,6 @@ Find alternative and similar software programs
 [Get Hashes](https://hashes.com/en/decrypt/hash)
 
 ## Sublist3r
-
 [Fast subdomains enumeration tool for penetration testers](https://github.com/aboul3la/Sublist3r)
 
 ## Certificate Search
@@ -568,6 +567,9 @@ Find alternative and similar software programs
 
 ## Username and Domain Name Checker
 [Username and Domain Name Checker](https://namechk.com/)
+
+## Domain Age Checker
+[Domain Age Checker](https://www.iplocation.net/domain-age)
 
 ## WhatsMyName Web
 [Enumerate usernames](https://whatsmyname.app/)
