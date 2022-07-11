@@ -493,6 +493,10 @@ Find alternative and similar software programs
 
 # OSINT Tools
 
+## OSINT Framework
+
+[OSINT Framework](https://osintframework.com/)
+
 ## Hunter
 
 [Find email addresses in seconds](https://hunter.io/)
