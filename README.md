@@ -672,3 +672,7 @@ Launch and grow your business online with AI
 ## Durable
 Build a website in 30 seconds with AI.
 [https://durable.co/](https://durable.co/)
+
+## Opus Clip
+AI-powered Video Repurposing
+[https://www.opus.pro/](https://www.opus.pro/)
