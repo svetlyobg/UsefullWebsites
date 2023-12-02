@@ -676,3 +676,7 @@ Build a website in 30 seconds with AI.
 ## Opus Clip
 AI-powered Video Repurposing
 [https://www.opus.pro/](https://www.opus.pro/)
+
+## ChatGPT Writer - !Chrome Extention!
+Write mail, messages with AI
+[https://chromewebstore.google.com/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp](https://chromewebstore.google.com/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp)
