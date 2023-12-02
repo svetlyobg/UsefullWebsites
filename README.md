@@ -693,3 +693,7 @@ Organize Your Content and Resources with Collections.
 Microsoft Copilot is a large language model-based chatbot developed by Microsoft.
 [https://copilot.microsoft.com/](https://copilot.microsoft.com/)
 
+## Adobe Firefly
+Generative AI for everyone
+[https://www.adobe.com/sensei/generative-ai/firefly.html](https://www.adobe.com/sensei/generative-ai/firefly.html)
+
