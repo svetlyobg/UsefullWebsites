@@ -680,3 +680,7 @@ AI-powered Video Repurposing
 ## ChatGPT Writer - !Chrome Extention!
 Write mail, messages with AI
 [https://chromewebstore.google.com/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp](https://chromewebstore.google.com/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp)
+
+## Tidio
+Customer Service Software To Grow Your Business
+[https://www.tidio.com/](https://www.tidio.com/)
