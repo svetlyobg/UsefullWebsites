@@ -689,3 +689,7 @@ Customer Service Software To Grow Your Business
 Organize Your Content and Resources with Collections.
 [https://docuask.com/](https://docuask.com/)
 
+## Microsoft Copilot
+Microsoft Copilot is a large language model-based chatbot developed by Microsoft.
+[https://copilot.microsoft.com/](https://copilot.microsoft.com/)
+
