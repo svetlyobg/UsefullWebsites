@@ -668,3 +668,7 @@ site:instagram.com intext:USERNAME
 ## 10 Web IO
 Launch and grow your business online with AI
 [https://10web.io/](https://10web.io/)
+
+## Durable
+Build a website in 30 seconds with AI.
+[https://durable.co/](https://durable.co/)
