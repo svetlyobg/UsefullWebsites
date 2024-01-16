@@ -666,6 +666,10 @@ site:instagram.com intext:USERNAME
 ## Google Maps, Aerial Imagery and Google Street View 
 [Google Maps, Aerial Imagery and Google Street View ](http://data.mashedworld.com/dualmaps/map.htm)
 
+## Cached WhoIs domain data prior to the GDPR
+
+[domainiq.com](domainiq.com)
+
 # AI
 
 ## 10 Web IO
