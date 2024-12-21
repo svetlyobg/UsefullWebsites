@@ -705,5 +705,10 @@ Generative AI for everyone
 [https://www.adobe.com/sensei/generative-ai/firefly.html](https://www.adobe.com/sensei/generative-ai/firefly.html)
 
 # Scam
-Face Check
+
+## Face Check
 [https://facecheck.id/](https://facecheck.id/)
+
+## Social Catfish
+
+[https://socialcatfish.com/](https://socialcatfish.com/)
