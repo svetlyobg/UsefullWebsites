@@ -704,3 +704,6 @@ Microsoft Copilot is a large language model-based chatbot developed by Microsoft
 Generative AI for everyone
 [https://www.adobe.com/sensei/generative-ai/firefly.html](https://www.adobe.com/sensei/generative-ai/firefly.html)
 
+# Scam
+Face Check
+[https://facecheck.id/](https://facecheck.id/)
