@@ -712,3 +712,7 @@ Generative AI for everyone
 ## Social Catfish
 
 [https://socialcatfish.com/](https://socialcatfish.com/)
+
+## Been Verified
+
+[https://www.beenverified.com/](https://www.beenverified.com/)
