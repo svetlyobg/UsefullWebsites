@@ -719,3 +719,6 @@ Generative AI for everyone
 
 ## People Finder
 [https://www.peoplefinder.com/](https://www.peoplefinder.com/)
+
+## Scammer Info - Scambait Forum and Scam Number Database
+[https://scammer.info/](https://scammer.info/)
