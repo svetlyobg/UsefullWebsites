@@ -228,6 +228,10 @@ Find alternative and similar software programs
 
 [https://updatemybrowser.org/](https://updatemybrowser.org/)
 
+## Can I use... Support tables for HTML5, CSS3, etc
+
+[https://caniuse.com/](https://caniuse.com/)
+
 ## Enhanced Tracking Protection in Firefox for desktop
 
 [https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US)
